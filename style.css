@@ -14,13 +14,9 @@ a {
 }
 
 .title{
-    font-size: 4em;
-    
-    margin-top: 3em;
+    font-size: 10vw;
+    margin-top: 20px;
 }
 .info{
-    
-    text-align: center;
-    
-    
+    text-align: center;    
 }
