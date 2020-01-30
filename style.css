@@ -1,7 +1,9 @@
 html{
     background-image: url(kait-herzog-6vWD_xnzPuU-unsplash.jpg);
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; 
+    background-attachment: fixed;
     background-color: lightblue;
 }
 body {
@@ -15,7 +17,7 @@ a {
 
 .title{
     font-size: 10vw;
-    margin-top: 20px;
+    margin-top: 15vw;
 }
 .info{
     text-align: center;    
