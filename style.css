@@ -1,6 +1,6 @@
 html{
     background-image: url(kait-herzog-6vWD_xnzPuU-unsplash.jpg);
-    background-position: center center;
+    /* background-position: center center; */
     background-repeat: no-repeat;
     background-size: cover; 
     background-attachment: fixed;
@@ -9,6 +9,7 @@ html{
 body {
     font-family: 'Roboto Condensed', snas-serif;
     display: grid;
+    color: black;
 }
 a {
     text-decoration: none;
