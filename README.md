@@ -1,4 +1,4 @@
 Playing with a basic landing page.
 
-https://chrononox.github.io/startup2/
+https://chrononox.github.io/startuptwo/
 
