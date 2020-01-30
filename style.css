@@ -1,0 +1,26 @@
+html{
+    background-image: url(kait-herzog-6vWD_xnzPuU-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: brown;
+}
+body {
+    font-family: 'Roboto Condensed', snas-serif;
+    display: grid;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.title{
+    font-size: 4em;
+    
+    margin-top: 3em;
+}
+.info{
+    
+    text-align: center;
+    
+    
+}
